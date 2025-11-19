@@ -1,4 +1,4 @@
-# nuclei-ai
+# nuclei-X
 
 
 automate scan with nuclei -ai tag
